@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ASSIGNMENT_QANH:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ASSIGNMENT_QANH</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ASSIGNMENT_QANH-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ASSIGNMENT_QANH:war exploded" />
+    </root>
+  </artifact>
+</component>
